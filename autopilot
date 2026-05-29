@@ -1,1 +1,2 @@
-Get-WindowsAutoPilotInfo -OutputFile "C:\Temp\autopilot.csv"
+Install-Script -Name Get-WindowsAutoPilotInfo -Force
+Get-WindowsAutoPilotInfo -OutputFile "C:\Users\BridgetPowell\Documents\autopilot.csv"
